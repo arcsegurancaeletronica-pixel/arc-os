@@ -1,0 +1,9 @@
+{
+  "format": "ARC_REMOTE_CATALOG_V1",
+  "latest": {
+    "package_id": "ARC_DEMO_REMOTE_003",
+    "url": "https://raw.githubusercontent.com/arcsegurancaeletronica-pixel/arc-os/main/ARC_DEMO_REMOTE_003.zip",
+    "sha256": "5eae2b9a3ded7a97635b3dc8a3edabd7da7374ff457e011369e16bc65ff98598",
+    "bytes": 620
+  }
+}
